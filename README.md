@@ -68,6 +68,7 @@ dependencies:
   flutter:
     sdk: flutter
   get: ^4.6.6
+  web: ^1.1.0
   flutter_web_plugins:
     sdk: flutter
 ```
