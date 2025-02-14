@@ -23,7 +23,7 @@ A Flutter web application that allows users to view images from URLs with fullsc
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/shezinparavath/image_viewer_web.git
 cd image-viewer
 ```
 
